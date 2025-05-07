@@ -43,7 +43,8 @@ This project uses **Natural Language Processing (NLP)** and financial sentiment 
 
 ## 📊 Sample Output
 
-![Prediction vs Actual Plot](<INSERT_PATH_TO_YOUR_PLOT_IMAGE>)
+![image](https://github.com/user-attachments/assets/a02e2e4f-bbd2-492d-97a2-4714de1afe0e)
+
 
 ---
 
