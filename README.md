@@ -4,7 +4,7 @@ This project uses **Natural Language Processing (NLP)** and financial sentiment 
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **FinBERT**: Transformer model fine-tuned for financial sentiment
 - **Takala Financial PhraseBank**: Human-labeled financial sentiment dataset
 - **yfinance**: For downloading historical MSFT stock data
@@ -14,7 +14,7 @@ This project uses **Natural Language Processing (NLP)** and financial sentiment 
 
 ---
 
-## 🔍 What the Project Does
+## What the Project Does
 
 - Extracts financial sentences and their sentiment labels from the PhraseBank dataset
 - Applies FinBERT to each sentence to get sentiment predictions
@@ -29,7 +29,7 @@ This project uses **Natural Language Processing (NLP)** and financial sentiment 
 
 ---
 
-## 🧪 Model Performance
+## Model Performance
 
 | Metric | Score   |
 |--------|---------|
@@ -41,14 +41,14 @@ This project uses **Natural Language Processing (NLP)** and financial sentiment 
 
 ---
 
-## 📊 Sample Output
+## Output
 
 ![image](https://github.com/user-attachments/assets/a02e2e4f-bbd2-492d-97a2-4714de1afe0e)
 
 
 ---
 
-## ⚠️ Limitations and Future Improvements
+## Limitations and Future Improvements
 
 While the model performs well, there are several opportunities to improve:
 
@@ -69,7 +69,7 @@ While the model performs well, there are several opportunities to improve:
 
 ---
 
-## 📌 Disclaimer
+## Disclaimer
 
 This project is intended for educational purposes only. The model is not a financial forecasting tool and should not be used for investment decisions.
 
