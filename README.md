@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction Using NLP and Sentiment Analysis
+# Stock Price Prediction Using NLP and Sentiment Analysis
 
 This project uses **Natural Language Processing (NLP)** and financial sentiment analysis to predict Microsoft (MSFT) stock prices. By combining human-labeled sentiment data, a transformer-based FinBERT model, and historical stock prices, we train a machine learning model to estimate future closing prices.
 
