@@ -60,7 +60,7 @@ While the model performs well, there are several opportunities to improve:
 
 ---
 
-## ✨ Future Directions
+## Future Directions
 
 - Integrate real-time news and intraday stock data
 - Explore causality between specific news events and stock changes
@@ -72,11 +72,5 @@ While the model performs well, there are several opportunities to improve:
 ## 📌 Disclaimer
 
 This project is intended for educational purposes only. The model is not a financial forecasting tool and should not be used for investment decisions.
-
----
-
-## 📬 Contact
-
-Have questions or ideas? Feel free to open an issue or contact me directly.
 
 
